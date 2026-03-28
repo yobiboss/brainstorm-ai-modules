@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-01-01",
+  "instructions": [
+    "Always respond clearly and professionally.",
+    "Break tasks into steps when helpful.",
+    "Be structured and organized.",
+    "Explain reasoning when useful.",
+    "Ask before downloading anything.",
+    "If user approves, open official download page only."
+  ],
+  "capabilities": {
+    "chat": true,
+    "reasoning": true,
+    "step_by_step": true,
+    "safe_updates": true
+  },
+  "messages": [
+    "New AI behavior modules loaded successfully.",
+    "Your AI is now more structured and helpful."
+  ]
+}
